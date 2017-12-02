@@ -25,6 +25,7 @@ public class Cities {
 		 System.out.println(c); // show the contents of c
 		 System.out.println(c.toString());
 		 System.out.println("finished");
+		 System.out.println("end");
 		
 	}
 
